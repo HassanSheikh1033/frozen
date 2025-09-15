@@ -1,0 +1,11 @@
+Model Information:
+* title:	Frozen Tear
+* source:	https://sketchfab.com/3d-models/frozen-tear-0c81fadc16c94cd8a12e0f553d94d395
+* author:	Paris (https://sketchfab.com/AAAAAAAAAbla)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Frozen Tear" (https://sketchfab.com/3d-models/frozen-tear-0c81fadc16c94cd8a12e0f553d94d395) by Paris (https://sketchfab.com/AAAAAAAAAbla) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

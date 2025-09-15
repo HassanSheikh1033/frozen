@@ -1,0 +1,11 @@
+Model Information:
+* title:	Olaf 3d Rigged
+* source:	https://sketchfab.com/3d-models/olaf-3d-rigged-83324c86aeb144a1a2417d4148d1eab5
+* author:	rsn3d (https://sketchfab.com/rsn3dofficial)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Olaf 3d Rigged" (https://sketchfab.com/3d-models/olaf-3d-rigged-83324c86aeb144a1a2417d4148d1eab5) by rsn3d (https://sketchfab.com/rsn3dofficial) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

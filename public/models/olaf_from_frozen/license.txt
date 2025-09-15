@@ -1,0 +1,11 @@
+Model Information:
+* title:	Olaf from frozen
+* source:	https://sketchfab.com/3d-models/olaf-from-frozen-30b89e5ec0e34dd6a6749545dd4342d0
+* author:	gumblin (https://sketchfab.com/gumblin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Olaf from frozen" (https://sketchfab.com/3d-models/olaf-from-frozen-30b89e5ec0e34dd6a6749545dd4342d0) by gumblin (https://sketchfab.com/gumblin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

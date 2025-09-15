@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Snow Environment
+* source:	https://sketchfab.com/3d-models/low-poly-snow-environment-0e500bc60682408d9cbb703230a13bf2
+* author:	milan_devmurari (https://sketchfab.com/milan_devmurari)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Snow Environment" (https://sketchfab.com/3d-models/low-poly-snow-environment-0e500bc60682408d9cbb703230a13bf2) by milan_devmurari (https://sketchfab.com/milan_devmurari) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,905 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 15444,
+      "max": [
+        1.0579334497451782,
+        1.8795064687728882,
+        1.457278847694397
+      ],
+      "min": [
+        -1.0579556226730347,
+        0.040440917015075684,
+        -0.0747528076171875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 185328,
+      "componentType": 5126,
+      "count": 15444,
+      "max": [
+        0.99962317943573,
+        0.9999251365661621,
+        0.9705902934074402
+      ],
+      "min": [
+        -0.9998076558113098,
+        -0.9999788999557495,
+        -0.9777147173881531
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 15444,
+      "max": [
+        0.9999918341636658,
+        0.9963916540145874,
+        0.9969565868377686,
+        1.0
+      ],
+      "min": [
+        -0.9999918341636658,
+        -0.9980958104133606,
+        -0.9999817609786987,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 15444,
+      "max": [
+        1.819946527481079,
+        0.9932000637054443
+      ],
+      "min": [
+        0.05064845085144043,
+        0.002331972122192383
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 15444,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 370656,
+      "componentType": 5126,
+      "count": 19293,
+      "max": [
+        0.12028589844703674,
+        0.1404816210269928,
+        1.778429388999939
+      ],
+      "min": [
+        -0.10313224792480469,
+        -0.15344929695129395,
+        1.2416539192199707
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 602172,
+      "componentType": 5126,
+      "count": 19293,
+      "max": [
+        0.999965488910675,
+        0.9998273253440857,
+        0.9999237656593323
+      ],
+      "min": [
+        -0.9998277425765991,
+        -0.997791051864624,
+        -0.997713029384613
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 247104,
+      "componentType": 5126,
+      "count": 19293,
+      "max": [
+        0.9999331831932068,
+        0.9999300837516785,
+        0.9999985098838806,
+        1.0
+      ],
+      "min": [
+        -0.9999393224716187,
+        -0.9998349547386169,
+        -0.9999558329582214,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 123552,
+      "componentType": 5126,
+      "count": 19293,
+      "max": [
+        0.9976353645324707,
+        0.9976353645324707
+      ],
+      "min": [
+        0.003659486770629883,
+        0.003659486770629883
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 61776,
+      "componentType": 5125,
+      "count": 19293,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 833688,
+      "componentType": 5126,
+      "count": 51231,
+      "max": [
+        0.5732032060623169,
+        0.8978407382965088,
+        1.5938800573349
+      ],
+      "min": [
+        -0.5732163190841675,
+        -0.15188929438591003,
+        -0.06597977876663208
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1448460,
+      "componentType": 5126,
+      "count": 51231,
+      "max": [
+        0.9999924302101135,
+        0.9999924302101135,
+        0.9999231696128845
+      ],
+      "min": [
+        -0.9999923706054688,
+        -0.9999924898147583,
+        -0.9999848008155823
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 555792,
+      "componentType": 5126,
+      "count": 51231,
+      "max": [
+        0.9999923706054688,
+        0.9999903440475464,
+        0.9999996423721313,
+        1.0
+      ],
+      "min": [
+        -0.9999924302101135,
+        -0.9999921917915344,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 277896,
+      "componentType": 5126,
+      "count": 51231,
+      "max": [
+        0.9967303276062012,
+        0.9982643127441406
+      ],
+      "min": [
+        0.005002498626708984,
+        0.0034685134887695313
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 138948,
+      "componentType": 5125,
+      "count": 51231,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2063232,
+      "componentType": 5126,
+      "count": 1458,
+      "max": [
+        0.049433667212724686,
+        -0.026616085320711136,
+        1.6478990316390991
+      ],
+      "min": [
+        -0.04942524805665016,
+        -0.04912286996841431,
+        1.6119762659072876
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2080728,
+      "componentType": 5126,
+      "count": 1458,
+      "max": [
+        0.9996181726455688,
+        -0.027633370831608772,
+        0.9788243770599365
+      ],
+      "min": [
+        -0.9995337128639221,
+        -0.9999504685401917,
+        -0.9641896486282349
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 687744,
+      "componentType": 5126,
+      "count": 1458,
+      "max": [
+        0.9925963878631592,
+        0.98726487159729
+      ],
+      "min": [
+        0.00933837890625,
+        0.010100126266479492
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 343872,
+      "componentType": 5125,
+      "count": 1458,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2098224,
+      "componentType": 5126,
+      "count": 15690,
+      "max": [
+        0.08098141849040985,
+        0.09557148814201355,
+        1.7076095342636108
+      ],
+      "min": [
+        -0.08097019791603088,
+        -0.07186584174633026,
+        1.5440750122070313
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2286504,
+      "componentType": 5126,
+      "count": 15690,
+      "max": [
+        0.9994218349456787,
+        0.99757981300354,
+        0.9999833106994629
+      ],
+      "min": [
+        -0.9975796341896057,
+        -0.9999964237213135,
+        -0.9999833106994629
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1375488,
+      "componentType": 5126,
+      "count": 15690,
+      "max": [
+        0.9999923706054688,
+        0.999987006187439,
+        0.9975730776786804,
+        1.0
+      ],
+      "min": [
+        -0.9999961256980896,
+        -0.9997594952583313,
+        -0.9975734353065491,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 699408,
+      "componentType": 5126,
+      "count": 15690,
+      "max": [
+        0.9974632263183594,
+        0.9936709403991699
+      ],
+      "min": [
+        0.002996683120727539,
+        0.06935763359069824
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 349704,
+      "componentType": 5125,
+      "count": 15690,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "⠀ (https://sketchfab.com/mlx-2047)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/3d-models/frozen-i-b5c0bccb9eca40bdbf258ef713141338",
+      "title": "[王者荣耀] 甄姬 雪境奇遇 (Frozen I)"
+    },
+    "generator": "Sketchfab-16.72.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 412464,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 824928,
+      "byteOffset": 412464,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2474784,
+      "byteOffset": 1237392,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1626528,
+      "byteOffset": 3712176,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5338704,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/12708_ZhenJi_01_Cape_High_baseColor.png"
+    },
+    {
+      "uri": "textures/12708_ZhenJi_01_Cape_High_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/12708_ZhenJi_01_Cape_High_normal.png"
+    },
+    {
+      "uri": "textures/Material.002_baseColor.png"
+    },
+    {
+      "uri": "textures/Material.002_normal.png"
+    },
+    {
+      "uri": "textures/12708_ZhenJi_01_High_baseColor.png"
+    },
+    {
+      "uri": "textures/12708_ZhenJi_01_High_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/12708_ZhenJi_01_High_normal.png"
+    },
+    {
+      "uri": "textures/12708_ZhenJi_Eyes_High_baseColor.png"
+    },
+    {
+      "uri": "textures/12708_ZhenJi_Eyes_High_emissive.png"
+    },
+    {
+      "uri": "textures/Material.001_baseColor.png"
+    },
+    {
+      "uri": "textures/Material.001_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Material.001_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "12708_ZhenJi_01_Cape_High",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.002",
+      "normalTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "12708_ZhenJi_01_High",
+      "normalTexture": {
+        "index": 7
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 6
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 9
+      },
+      "name": "12708_ZhenJi_Eyes_High",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "normalTexture": {
+        "index": 12
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 10
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 11
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "12708_ZhenJi_01_Cape_High_12708_ZhenJi_01_Cape_High_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "12708_ZhenJi_01_Hair_High_Material.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "12708_ZhenJi_01_High_12708_ZhenJi_01_High_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "12708_ZhenJi_Eyes_High_12708_ZhenJi_Eyes_High_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TEXCOORD_0": 17
+          },
+          "indices": 18,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "12708_ZhenJi_Face_High_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 20,
+            "POSITION": 19,
+            "TANGENT": 21,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "12708_ZhenJi_01_ShowHigh.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10,
+        12
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.9999999999999889,
+        1.509957990978371e-07,
+        0.0,
+        0.0,
+        -1.509957990978371e-07,
+        -0.9999999999999889,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "12708_ZhenJi_01_ShowHigh"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        0.9999999999999868,
+        0.0,
+        0.0,
+        -0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "12708_ZhenJi_01_Cape_High"
+    },
+    {
+      "mesh": 0,
+      "name": "12708_ZhenJi_01_Cape_High_12708_ZhenJi_01_Cape_High_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        0.9999999999999868,
+        0.0,
+        0.0,
+        -0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "12708_ZhenJi_01_Hair_High"
+    },
+    {
+      "mesh": 1,
+      "name": "12708_ZhenJi_01_Hair_High_Material.002_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        0.9999999999999868,
+        0.0,
+        0.0,
+        -0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "12708_ZhenJi_01_High"
+    },
+    {
+      "mesh": 2,
+      "name": "12708_ZhenJi_01_High_12708_ZhenJi_01_High_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        0.9999999999999868,
+        0.0,
+        0.0,
+        -0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "12708_ZhenJi_Eyes_High"
+    },
+    {
+      "mesh": 3,
+      "name": "12708_ZhenJi_Eyes_High_12708_ZhenJi_Eyes_High_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.6292067939183141e-07,
+        0.9999999999999868,
+        0.0,
+        0.0,
+        -0.9999999999999868,
+        -1.6292067939183141e-07,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "12708_ZhenJi_Face_High"
+    },
+    {
+      "mesh": 4,
+      "name": "12708_ZhenJi_Face_High_Material.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    }
+  ]
+}

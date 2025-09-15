@@ -1,0 +1,11 @@
+Model Information:
+* title:	[王者荣耀] 甄姬 雪境奇遇 (Frozen I)
+* source:	https://sketchfab.com/3d-models/frozen-i-b5c0bccb9eca40bdbf258ef713141338
+* author:	⠀ (https://sketchfab.com/mlx-2047)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[王者荣耀] 甄姬 雪境奇遇 (Frozen I)" (https://sketchfab.com/3d-models/frozen-i-b5c0bccb9eca40bdbf258ef713141338) by ⠀ (https://sketchfab.com/mlx-2047) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
